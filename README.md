@@ -1,10 +1,12 @@
 # borrador_hackaton_nasa
 Borrador de la Reto para Hackaton de la Nasa
 
-OBJETIVO
+Descripción:
+
 El texto te desafía a diseñar una herramienta que conecte a la comunidad agrícola con los conjuntos de datos satelitales y geoespaciales de la NASA. El objetivo es mejorar el acceso a los datos, la integración, la elaboración de informes y/o el asesoramiento sobre un tema ambiental relacionado con el agua que sea de interés para los agricultores.
 
 Objetivos Clave:
+
 Acceso a Datos: Facilitar el acceso a los datos satelitales y geoespaciales de la NASA.
 Integración de Datos: Integrar estos datos con otros conjuntos de datos relevantes para proporcionar una visión completa.
 Elaboración de Informes y Asesoramiento: Crear informes y proporcionar asesoramiento basado en los datos para ayudar a los agricultores a tomar decisiones informadas.
